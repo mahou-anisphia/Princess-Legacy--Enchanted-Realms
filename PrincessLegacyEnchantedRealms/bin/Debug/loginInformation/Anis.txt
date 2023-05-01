@@ -1,0 +1,11 @@
+EuphyChanDaisuki
+1
+Magical Researcher. She is very passionate about magic.
+avatarList\gameAvt3
+303360
+InventoryStarts
+character:Euphyllia
+character:Ilya
+weapon:arc-en-ciel
+weapon:celestial
+character:Lainie

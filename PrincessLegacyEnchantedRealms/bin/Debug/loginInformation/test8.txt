@@ -1,0 +1,24 @@
+1
+1
+New Player
+avatarList\gameAvt9
+7000
+InventoryStarts
+character:Ilya
+weapon:celestial
+character:celestial
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:celestial
+character:celestial
+weapon:arc-en-ciel
+character:arc-en-ciel
+character:Tilty

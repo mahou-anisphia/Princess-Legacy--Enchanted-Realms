@@ -1,0 +1,2 @@
+gameTutorials\scenery1\
+sceneryBackgroundImages\sceen1KingdomOfPallettia.jpg

@@ -1,0 +1,2 @@
+gameTutorials\scenery2\
+sceneryBackgroundImages\sceen2TheBirthOfEnchantedDuels.jpg

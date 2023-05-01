@@ -1,0 +1,25 @@
+1
+1
+New Player
+avatarList\gameAvt2
+12960
+InventoryStarts
+character:Tilty
+weapon:celestial
+character:celestial
+weapon:celestial
+character:celestial
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:celestial
+character:celestial
+weapon:celestial
+character:celestial
+weapon:celestial
+character:celestial
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:celestial
+character:celestial
+weapon:arc-en-ciel
+character:arc-en-ciel

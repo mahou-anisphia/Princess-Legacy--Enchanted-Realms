@@ -1,0 +1,6 @@
+qwe
+1
+New Player
+avatarList\gameavt9
+1600
+InventoryStarts

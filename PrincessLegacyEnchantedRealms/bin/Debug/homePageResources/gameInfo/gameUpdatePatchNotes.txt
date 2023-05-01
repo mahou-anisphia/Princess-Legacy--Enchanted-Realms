@@ -1,0 +1,11 @@
+New Features:
+
+- A new game mode has been added: LycoReco Collab. Players can now enjoy a game featuring LycoReco characters.
+- New wish event: Tenten Kakumei Mahou summon has been added. Featuring the main characters of the game.
+- New wish event: LycoReco Sweets and Coffee. Featuring Event-limited Characters: Chisato Nishikigi, Inoue Takina.
+- New time-limited game mode: Anisphia's Brave Adventure
+- A new story quest titled "Anisphia and Euphyllia's Heartbreaking Decision" has been added.
+Bug Fixes:
+
+Various bugs have been fixed to improve the overall gameplay experience.
+Improved in-game browser to eliminate JavaScript errors when entering the game's main page.

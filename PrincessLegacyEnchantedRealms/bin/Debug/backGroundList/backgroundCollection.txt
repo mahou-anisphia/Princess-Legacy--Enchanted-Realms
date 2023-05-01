@@ -1,0 +1,2 @@
+"sceneryBackgorundImages\scene1KingdomOfPallettia.jpg", "Kingdom of Palettia", "Welcome to the Kingdom of Palettia", "sceneryList\Scenery1.txt"
+"sceneryBackgorundImages\scene2TheBirthOfEnchantedDuels.jpg", "Royal Garden", "Under a tree", "sceneryList\Scenery2.txt"

@@ -1,0 +1,23 @@
+1
+1
+New Player
+avatarList\gameAvt1
+25920
+InventoryStarts
+character:Anisphia
+character:Lainie
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:celestial
+character:celestial
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:arc-en-ciel
+character:arc-en-ciel
+weapon:celestial
+character:celestial
+weapon:celestial
+character:celestial
+character:Lainie
+weapon:celestial
+character:celestial
