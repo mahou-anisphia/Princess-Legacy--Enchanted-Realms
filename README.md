@@ -11,7 +11,7 @@ Princess Legacy: Enchanted Realms is a simplified client similar to the League c
 
 ## Running the game
 
-To run the game, navigate to the `debug/bin` directory and click on `PrincessLegacyEnchantedRealms.exe`. 
+To run the game, navigate to the `PrincessLegacyEnchantedRealms/bin/debug` directory and click on `PrincessLegacyEnchantedRealms.exe`. 
 
 ## Gameplay
 
