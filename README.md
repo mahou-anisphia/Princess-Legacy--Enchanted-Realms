@@ -28,6 +28,7 @@ Princess Legacy: Enchanted Realms was built using the WinForm library with the .
 - The League of Legends client for inspiration and guidance
 - The Genshin Impact Wish system for the gacha mechanics
 - The light novel and manga series Tensei Oujo to Tensai Reijou no Mahou Kakumei for additional inspiration and ideas.
+- TV Series: Breaking Bad for the currency system
 
 ## License
 
