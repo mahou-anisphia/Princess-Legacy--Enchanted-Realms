@@ -4,14 +4,15 @@ Princess Legacy: Enchanted Realms is a simplified client similar to the League c
 
 ## Requirements
 
-- Windows 7.0+
+- Windows 7.0+, MAC and Linux are not supported
 - 2GB RAM
 - 200MB memory
 - CPU: (To be determined for a project using .NET 7.0)
+- No specific program / tool is required
 
 ## Running the game
 
-To run the game, navigate to the `PrincessLegacyEnchantedRealms/bin/debug` directory and click on `PrincessLegacyEnchantedRealms.exe`. 
+To run the game, navigate to the `PrincessLegacyEnchantedRealms/bin/debug` directory and click on `PrincessLegacyEnchantedRealms.exe`.
 
 ## Gameplay
 
