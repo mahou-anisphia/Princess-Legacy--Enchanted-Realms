@@ -1,4 +1,5 @@
-_From the product series "Magicodelogy"_
+_From the discovery & learning series "Magicodelogy"_
+
 # Princess Legacy: Enchanted Realms
 
 Princess Legacy: Enchanted Realms is a simplified client similar to the League client that runs on Windows. It features a gacha system similar to Genshin Impact's, allowing users to simulate in-app purchases without spending real money.
